@@ -1,5 +1,8 @@
 install Git on Windows or Mac
 
+HEAD -> Master - The latest commit 
+origin/master - The latest push to origin
+
 ## create a new git repo locally
 git init RepoName
 
@@ -31,3 +34,4 @@ git log
 
 ## Show commit history in one line
 git log --oneline
+
