@@ -26,3 +26,5 @@ git diff --word-diff
 ## Show only the Files that got changed
 git diff --stat
 
+## check commit history
+git log
