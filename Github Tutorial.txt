@@ -3,8 +3,11 @@ install Git on Windows or Mac
 ## create a new git repo locally
 git init RepoName
 
-## Link Local Git Repo to Github
+## Create a Repo on Github and Link Local Git Repo to Github
 git remote add origin https://github.com/beigemonkey/scripts.git
 
 ## How to Push Local Git Repo change to Github
 git push -u origin master
+
+## what is diff command. Git diff tells whats different between working tree and staging area
+git diff
