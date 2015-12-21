@@ -22,3 +22,7 @@ git diff HEAD
 git diff --color-words
 Or
 git diff --word-diff
+
+## Show only the Files that got changed
+git diff --stat
+
