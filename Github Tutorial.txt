@@ -5,3 +5,6 @@ git init RepoName
 
 ## Link Local Git Repo to Github
 git remote add origin https://github.com/beigemonkey/scripts.git
+
+## How to Push Local Git Repo change to Github
+git push -u origin master
