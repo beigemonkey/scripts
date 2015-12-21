@@ -4,3 +4,4 @@ install Git on Windows or Mac
 git init RepoName
 
 ## Link Local Git Repo to Github
+git remote add origin https://github.com/beigemonkey/scripts.git
