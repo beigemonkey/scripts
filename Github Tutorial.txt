@@ -11,3 +11,6 @@ git push -u origin master
 
 ## what is diff command. Git diff tells whats different between working tree and staging area
 git diff
+
+## What is the different between your staged and latest commit
+git diff staged
