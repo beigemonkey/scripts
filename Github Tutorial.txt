@@ -1,0 +1,6 @@
+install Git on Windows or Mac
+
+## create a new git repo locally
+git init RepoName
+
+## Link Local Git Repo to Github
