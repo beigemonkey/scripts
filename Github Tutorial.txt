@@ -17,3 +17,8 @@ git diff staged
 
 ## What is different between your working tree and latest commit
 git diff HEAD
+
+## Show only word changes instead of whole line
+git diff --color-words
+Or
+git diff --word-diff
