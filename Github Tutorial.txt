@@ -14,3 +14,6 @@ git diff
 
 ## What is the different between your staged and latest commit
 git diff staged
+
+## What is different between your working tree and latest commit
+git diff HEAD
